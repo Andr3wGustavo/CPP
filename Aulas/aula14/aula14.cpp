@@ -8,7 +8,7 @@ int main(){
     cont=0;
 
 	while(cont++<20){ // with c++<20 we can increment 1
-        cout << "Suicide\n";
+        cout << "Hello\n";
         if(cont==10){
             break;
         }
