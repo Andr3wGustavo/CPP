@@ -33,8 +33,8 @@ int soma2(int n1, int n2){
     return n1+n2;
 }
 
-void tr(string tra[4]){
-    for(int i=0; i<4; i++){
+void tr(string tra[4]){ //cria uma função usando como parametro um vetor
+    for(int i=0; i<4; i++){ // cria um for para mostrar na função tudo que tem dentro do vetor
         cout << tra[i] << "\n\n";
     }
 }
